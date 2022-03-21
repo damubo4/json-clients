@@ -1,0 +1,156 @@
+
+ [
+    {
+        "nombres": "Juan Pablo",
+        "apellidos": "Mora Palacios",
+        "edad": "30",
+        "cedula": "87657987",
+        "celular": "3117014961",
+        "fecha_nac": "18/09/1992",
+        "correo": "juanmora@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Andres Rodrigo",
+        "apellidos": "Lopez",
+        "edad": "27",
+        "cedula": "87245687",
+        "celular": "3137650909",
+        "fecha_nac": "12/04/1995",
+        "correo": "andresrodrigo@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Miriam Andrea",
+        "apellidos": "Zuñiga Ordoñez",
+        "edad": "45",
+        "cedula": "87654123",
+        "celular": "3107865453",
+        "fecha_nac": "18/09/1977",
+        "correo": "miriamZ@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Mary Alcira",
+        "apellidos": "Bolaños Bolaños",
+        "edad": "33",
+        "cedula": "27675990",
+        "celular": "3149276593",
+        "fecha_nac": "04/09/1989",
+        "correo": "mbolanos@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Jennifer",
+        "apellidos": "Muñoz Palacios",
+        "edad": "38",
+        "cedula": "1061647877",
+        "celular": "3219873654",
+        "fecha_nac": "18/12/1984",
+        "correo": "jemp@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Liliana Maria",
+        "apellidos": "Ortega Alvear",
+        "edad": "29",
+        "cedula": "1088876678",
+        "celular": "3109187264",
+        "fecha_nac": "22/07/1993",
+        "correo": "lilianaortega@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "David Pablo",
+        "apellidos": "Realpe Realpe",
+        "edad": "44",
+        "cedula": "87234501",
+        "celular": "3228907678",
+        "fecha_nac": "01/02/1978",
+        "correo": "davidpablo@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Rocio Lisbeth",
+        "apellidos": "Andrade Pulido",
+        "edad": "39",
+        "cedula": "27978736",
+        "celular": "3114529871",
+        "fecha_nac": "12/10/1983",
+        "correo": "rocioandrade@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Esteban Andres",
+        "apellidos": "Chacon Astudillo",
+        "edad": "23",
+        "cedula": "1088761299",
+        "celular": "3146458761",
+        "fecha_nac": "30/03/1999",
+        "correo": "estebanch@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Linda del Carmen",
+        "apellidos": "Gomez Agredo",
+        "edad": "50",
+        "cedula": "87345566",
+        "celular": "3124526783",
+        "fecha_nac": "20/10/1972",
+        "correo": "lindadelcarmen@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Raul Augusto",
+        "apellidos": "Enriquez Fernandez",
+        "edad": "55",
+        "cedula": "87233341",
+        "celular": "3116785446",
+        "fecha_nac": "20/02/1967",
+        "correo": "raugusto@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Frailejon Ernesto",
+        "apellidos": "Perez",
+        "edad": "30",
+        "cedula": "27245675",
+        "celular": "3214567070",
+        "fecha_nac": "18/09/1992",
+        "correo": "fernestop@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Camilo",
+        "apellidos": "Romero Buendia",
+        "edad": "43",
+        "cedula": "87435667",
+        "celular": "3108909865",
+        "fecha_nac": "18/10/1979",
+        "correo": "cromero@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Luis Eduardo",
+        "apellidos": "Muñoz Muñoz",
+        "edad": "34",
+        "cedula": "108876555",
+        "celular": "3113334466",
+        "fecha_nac": "13/12/1988",
+        "correo": "Lumuz@gmail.com",
+        "obs": ""
+    },
+    {
+        "nombres": "Lucia del Socorro",
+        "apellidos": "Delgado",
+        "edad": "56",
+        "cedula": "27675563",
+        "celular": "3117003343",
+        "fecha_nac": "02/02/1966",
+        "correo": "lusocorro@gmail.com",
+        "obs": ""
+    }
+]
+
+
+
