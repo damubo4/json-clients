@@ -1,0 +1,185 @@
+{
+  "recepcion": [
+    {
+      "rec_terminos": "1",
+      "rec_tipoDoc": "1",
+      "rec_doc": "2344",
+      "rec_nombres": "yilyil",
+      "rec_primerApellido": "retyu",
+      "rec_segundoApellido": "",
+      "rec_tel1Vis": "2340",
+      "rec_tel2Vis": "",
+      "rec_razonVisita": "7",
+      "rec_especifique": "poopoopo",
+      "rec_dimension": "",
+      "rec_canalAtencion": "2",
+      "id": 1
+    },
+    {
+      "rec_terminos": "1",
+      "rec_tipoDoc": "1",
+      "rec_doc": "2345",
+      "rec_nombres": "regsergse",
+      "rec_primerApellido": "sergsrg",
+      "rec_segundoApellido": "",
+      "rec_tel1Vis": "2342",
+      "rec_tel2Vis": "",
+      "rec_razonVisita": "7",
+      "rec_especifique": "sfhgsfgh",
+      "rec_dimension": "",
+      "rec_canalAtencion": "2",
+      "id": 2
+    },
+    {
+      "rec_terminos": "1",
+      "rec_tipoDoc": "3",
+      "rec_doc": "2346",
+      "rec_nombres": "rewfwrf",
+      "rec_primerApellido": "werfw",
+      "rec_segundoApellido": "",
+      "rec_tel1Vis": "werfwf",
+      "rec_tel2Vis": "",
+      "rec_razonVisita": "3",
+      "rec_especifique": "",
+      "rec_dimension": "1",
+      "rec_canalAtencion": "2",
+      "id": 3
+    },
+    {
+      "user": {
+        "document_type_id": "1",
+        "document_number": "1061723716",
+        "names_user": "David",
+        "first_last_name": "Muñoz",
+        "seound_last_name": "",
+        "phone_1": "3116821378",
+        "phone_2": null
+      },
+      "data_procesing_content": "1",
+      "reason_visit_id": "7",
+      "other_reason": "otrica",
+      "workshop_appoinment_id": null,
+      "rec_canalAtencion": "3",
+      "id": 4
+    },
+    {
+      "user": {
+        "document_type_id": "1",
+        "document_number": "16165161",
+        "names_user": "Ernesto",
+        "first_last_name": "Perez",
+        "secound_last_name": null,
+        "phone_1": "65165165",
+        "phone_2": null
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": "3",
+      "other_reason": null,
+      "workshop_appointment_id": "3",
+      "service_channel_id": "2",
+      "id": 5
+    },
+    {
+      "user": {
+        "document_type_id": "2",
+        "document_number": "5363",
+        "names_user": "sfgbsfgb",
+        "first_last_name": "sdfbsdf",
+        "secound_last_name": "",
+        "phone_1": 2345235,
+        "phone_2": 23452345
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": "4",
+      "other_reason": "",
+      "workshop_appointment_id": "3",
+      "service_channel_id": "2",
+      "id": 6
+    },
+    {
+      "user": {
+        "document_type_id": 1,
+        "document_number": "12342",
+        "names_user": "sdfg",
+        "first_last_name": "sfdgsdfg",
+        "secound_last_name": "",
+        "phone_1": 467435,
+        "phone_2": 89680689
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": "2",
+      "other_reason": "",
+      "workshop_appointment_id": "",
+      "service_channel_id": "1",
+      "id": 7
+    },
+    {
+      "user": {
+        "document_type_id": 1,
+        "document_number": "8",
+        "names_user": "sdfg",
+        "first_last_name": "sfdgsdfg",
+        "secound_last_name": "se volvio a editar",
+        "phone_1": 467435,
+        "phone_2": 89680689
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": "2",
+      "other_reason": "",
+      "workshop_appointment_id": "",
+      "service_channel_id": "1",
+      "id": 8
+    },
+    {
+      "user": {
+        "document_type_id": 1,
+        "document_number": "6516351",
+        "names_user": "David",
+        "first_last_name": "ALejandro",
+        "secound_last_name": "Muñoz",
+        "phone_1": 3116821378,
+        "phone_2": 3116821378
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": 2,
+      "other_reason": "",
+      "workshop_appointment_id": 0,
+      "service_channel_id": 2,
+      "id": 9
+    },
+    {
+      "user": {
+        "document_type_id": 1,
+        "document_number": "78654",
+        "names_user": "JUan",
+        "first_last_name": "de aunpudia",
+        "secound_last_name": "",
+        "phone_1": 4656,
+        "phone_2": ""
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": 3,
+      "other_reason": "",
+      "workshop_appointment_id": 3,
+      "service_channel_id": 3,
+      "id": 10
+    },
+    {
+      "user": {
+        "document_type_id": 2,
+        "document_number": "41651",
+        "names_user": "sdfvs",
+        "first_last_name": "fvsdfvs",
+        "secound_last_name": "",
+        "phone_1": 234254,
+        "phone_2": ""
+      },
+      "data_processing_consent": "1",
+      "reason_visit_id": 2,
+      "other_reason": "",
+      "workshop_appointment_id": 0,
+      "service_channel_id": 2,
+      "id": 11
+    }
+  ]
+}
